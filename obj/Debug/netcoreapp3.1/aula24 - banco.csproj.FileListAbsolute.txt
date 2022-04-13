@@ -1,0 +1,14 @@
+C:\Users\João Vitor\OneDrive\Documentos\Programação\Programação em C # (.NET Core)\aula24 - banco\aula24 - banco\bin\Debug\netcoreapp3.1\aula24 - banco.exe
+C:\Users\João Vitor\OneDrive\Documentos\Programação\Programação em C # (.NET Core)\aula24 - banco\aula24 - banco\bin\Debug\netcoreapp3.1\aula24 - banco.deps.json
+C:\Users\João Vitor\OneDrive\Documentos\Programação\Programação em C # (.NET Core)\aula24 - banco\aula24 - banco\bin\Debug\netcoreapp3.1\aula24 - banco.runtimeconfig.json
+C:\Users\João Vitor\OneDrive\Documentos\Programação\Programação em C # (.NET Core)\aula24 - banco\aula24 - banco\bin\Debug\netcoreapp3.1\aula24 - banco.runtimeconfig.dev.json
+C:\Users\João Vitor\OneDrive\Documentos\Programação\Programação em C # (.NET Core)\aula24 - banco\aula24 - banco\bin\Debug\netcoreapp3.1\aula24 - banco.dll
+C:\Users\João Vitor\OneDrive\Documentos\Programação\Programação em C # (.NET Core)\aula24 - banco\aula24 - banco\bin\Debug\netcoreapp3.1\aula24 - banco.pdb
+C:\Users\João Vitor\OneDrive\Documentos\Programação\Programação em C # (.NET Core)\aula24 - banco\aula24 - banco\obj\Debug\netcoreapp3.1\aula24 - banco.csproj.AssemblyReference.cache
+C:\Users\João Vitor\OneDrive\Documentos\Programação\Programação em C # (.NET Core)\aula24 - banco\aula24 - banco\obj\Debug\netcoreapp3.1\aula24 - banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Vitor\OneDrive\Documentos\Programação\Programação em C # (.NET Core)\aula24 - banco\aula24 - banco\obj\Debug\netcoreapp3.1\aula24 - banco.AssemblyInfoInputs.cache
+C:\Users\João Vitor\OneDrive\Documentos\Programação\Programação em C # (.NET Core)\aula24 - banco\aula24 - banco\obj\Debug\netcoreapp3.1\aula24 - banco.AssemblyInfo.cs
+C:\Users\João Vitor\OneDrive\Documentos\Programação\Programação em C # (.NET Core)\aula24 - banco\aula24 - banco\obj\Debug\netcoreapp3.1\aula24 - banco.csproj.CoreCompileInputs.cache
+C:\Users\João Vitor\OneDrive\Documentos\Programação\Programação em C # (.NET Core)\aula24 - banco\aula24 - banco\obj\Debug\netcoreapp3.1\aula24 - banco.dll
+C:\Users\João Vitor\OneDrive\Documentos\Programação\Programação em C # (.NET Core)\aula24 - banco\aula24 - banco\obj\Debug\netcoreapp3.1\aula24 - banco.pdb
+C:\Users\João Vitor\OneDrive\Documentos\Programação\Programação em C # (.NET Core)\aula24 - banco\aula24 - banco\obj\Debug\netcoreapp3.1\aula24 - banco.genruntimeconfig.cache
